@@ -1,0 +1,14 @@
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/bin/Release/netcoreapp2.1/proyectoPrueba.deps.json
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/bin/Release/netcoreapp2.1/proyectoPrueba.runtimeconfig.json
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/bin/Release/netcoreapp2.1/proyectoPrueba.runtimeconfig.dev.json
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/bin/Release/netcoreapp2.1/proyectoPrueba.dll
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/bin/Release/netcoreapp2.1/proyectoPrueba.pdb
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.csprojAssemblyReference.cache
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.csproj.CoreCompileInputs.cache
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.RazorAssemblyInfo.cache
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.RazorAssemblyInfo.cs
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.AssemblyInfoInputs.cache
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.AssemblyInfo.cs
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.RazorTargetAssemblyInfo.cache
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.dll
+/Users/alfonso/Projects/GTTProject/proyectoPrueba/proyectoPrueba/obj/Release/netcoreapp2.1/proyectoPrueba.pdb

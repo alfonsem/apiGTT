@@ -1,0 +1,15 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{91309546-9A88-4418-8636-91E98907D620}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UsersController.cs">
+    <Files>
+      <File FileName="Controllers/UsersController.cs" Line="53" Column="9" />
+      <File FileName="Controllers/AuthController.cs" Line="20" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.proyectoPrueba PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

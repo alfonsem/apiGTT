@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+    <Folder Include="Models\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="2.1.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.Design" Version="1.1.1" />
+    <PackageReference Include="doNetCore" Version="1.0.0" />
+    <PackageReference Include="DoNetExtensions" Version="0.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+   <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="1.0.0" />
+</ItemGroup>
+
+
+
+  <ItemGroup>
+    <Compile Remove="Models\Users %28otra copia%29.cs" />
+    <Compile Remove="Migrations\20190124125630_initial.cs" />
+    <Compile Remove="Migrations\20190129141654_initial.cs" />
+    <Compile Remove="Migrations\20190129141654_initial.Designer.cs" />
+    <Compile Remove="Migrations\AppDBContextModelSnapshot.cs" />
+    <Compile Remove="Controllers\AuthControllers.cs" />
+    <Compile Remove="Migrations\20190129144045_anitial.cs" />
+    <Compile Remove="Migrations\20190131183133_initial.cs" />
+    <Compile Remove="Migrations\20190201090356_initial.cs" />
+    <Compile Remove="Migrations\20190206085752_initial.cs" />
+    <Compile Remove="Migrations\20190206092930_initial.cs" />
+    <Compile Remove="Migrations\20190206092930_initial.Designer.cs" />
+    <Compile Remove="Migrations\20190206093554_initial.cs" />
+    <Compile Remove="Migrations\20190206093803_initial.cs" />
+    <Compile Remove="Migrations\20190206093803_initial.Designer.cs" />
+    <Compile Remove="Migrations\20190206094345_initial.cs" />
+    <Compile Remove="Migrations\20190206094345_initial.Designer.cs" />
+    <Compile Remove="Migrations\20190206153540_initial.cs" />
+    <Compile Remove="Migrations\20190207142542_initial.cs" />
+    <Compile Remove="Migrations\20190207142711_initial.cs" />
+    <Compile Remove="Migrations\20190211081616_initial.cs" />
+    <Compile Remove="Migrations\20190212142548_initial.cs" />
+    <Compile Remove="Migrations\20190212142548_initial.Designer.cs" />
+    <Compile Remove="Migrations\20190213231005_initial.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="CSD\contraseña.txt" />
+  </ItemGroup>
+</Project>
