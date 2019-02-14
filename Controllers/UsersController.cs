@@ -14,8 +14,8 @@ namespace proyectoPrueba.Controllers
     {
         private readonly AppDBContext _context;
 
-        public UsersController(AppDBContext context)         {             this._context = context;             if (this._context.Users.Count() == 0)             {                 Console.WriteLine("No existen usuarios");                 Users usuario = new Users();                 usuario.username = "Alfonso";                 //usuario.password = "password";
-                usuario.password = Encrypt.GetMD5("pass");
+        public UsersController(AppDBContext context)         {             this._context = context;             if (this._context.Users.Count() == 0)             {                 Console.WriteLine("No existen usuarios");                 Users usuario = new Users();                 usuario.username = "admin";
+                usuario.password = Encrypt.GetMD5("admin");
                 usuario.admin = true;                 this._context.Users.Add(usuario);                 this._context.SaveChanges();             }         }
 
         // GET api/users
